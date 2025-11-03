@@ -1,3 +1,5 @@
 pokedexcli
 *.venv/
 *.env/
+*_test.go
+*.log
